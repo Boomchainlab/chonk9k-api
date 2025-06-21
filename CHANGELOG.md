@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.7 (2025-06-21)
+
+Full Changelog: [v1.2.6...v1.2.7](https://github.com/Boomchainlab/chonk9k-api/compare/v1.2.6...v1.2.7)
+
 ## 1.2.6 (2025-06-21)
 
 Full Changelog: [v1.2.5...v1.2.6](https://github.com/Boomchainlab/chonk9k-api/compare/v1.2.5...v1.2.6)
