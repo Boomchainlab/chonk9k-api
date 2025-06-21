@@ -1,6 +1,6 @@
 {
   "name": "chonk9k-api",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "description": "The official TypeScript library for the Chonk9k API API",
   "author": "Chonk9k API <support@boomchainlab.com>",
   "types": "dist/index.d.ts",
